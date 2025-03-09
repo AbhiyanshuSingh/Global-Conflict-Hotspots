@@ -1,0 +1,66 @@
+Column,Missing Values,Missing Percentage
+avg_duration,38341,98.69
+conflicts_past_3years,36848,94.85
+num_conflicts,36848,94.85
+max_intensity,36848,94.85
+avg_intensity,36848,94.85
+conflict_type_count,36848,94.85
+total_duration,36848,94.85
+has_territory_conflict,36848,94.85
+has_government_conflict,36848,94.85
+intensity_past_3years,36848,94.85
+has_both_conflict,36848,94.85
+Regime_Transition_Type,36610,94.23
+share_of_govt._spending,34293,88.27
+share_of_govt._spending_5yr_avg,33981,87.47
+share_of_govt._spending_change,33982,87.47
+per_capita,33677,86.68
+per_capita_5yr_avg,33313,85.75
+per_capita_change,33273,85.64
+"Unemployment, total (% of total labor force) (national estimate)",33220,85.51
+Refugees under UNHCR's mandate,31389,80.8
+Stateless persons,31389,80.8
+Returned IDPss,31389,80.8
+Other people in need of international protection,31389,80.8
+Others of concern,31389,80.8
+IDPs of concern to UNHCR,31389,80.8
+Returned refugees,31389,80.8
+Asylum-seekers,31389,80.8
+Total_Displaced,31389,80.8
+Host Community,31389,80.8
+Total_Displaced_refugee_asylum,31227,80.38
+Returned refugees_refugee_asylum,31227,80.38
+Returned IDPss_refugee_asylum,31227,80.38
+Asylum-seekers_refugee_asylum,31227,80.38
+Others of concern_refugee_asylum,31227,80.38
+Other people in need of international protection_refugee_asylum,31227,80.38
+Host Community_refugee_asylum,31227,80.38
+IDPs of concern to UNHCR_refugee_asylum,31227,80.38
+Refugees under UNHCR's mandate_refugee_asylum,31227,80.38
+Stateless persons_refugee_asylum,31227,80.38
+Arms_Transfer_Value,30799,79.28
+share_of_gdp,30764,79.19
+constant_(2022)_us$,30658,78.91
+"GDP per capita, PPP (current international $)",30583,78.72
+Adjusted savings: education expenditure (current US$),30474,78.44
+share_of_gdp_5yr_avg,30300,77.99
+constant_(2022)_us$_5yr_avg,30223,77.79
+constant_(2022)_us$_change,30210,77.76
+share_of_gdp_change,30157,77.62
+local_currency_calendar_years,30152,77.61
+local_currency_calendar_years_5yr_avg,29672,76.38
+local_currency_calendar_years_change,29584,76.15
+Total natural resources rents (% of GDP),27143,69.87
+GDP per capita (current US$),24537,63.16
+Regime_Durability_Years,22540,58.02
+Political_Stability,22540,58.02
+Polity_Score,22085,56.85
+Autocracy_Score,22085,56.85
+Democracy_Score,22085,56.85
+Country Code,21919,56.42
+"Population, total",21919,56.42
+Polity2_Score,21543,55.45
+Regime_Type,21276,54.76
+Trade_Status,19460,50.09
+year,192,0.49
+country,0,0.0
