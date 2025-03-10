@@ -8,3 +8,4 @@ joblib
 matplotlib
 seaborn
 requests
+country_converter
